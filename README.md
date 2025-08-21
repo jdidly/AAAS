@@ -1,0 +1,2 @@
+# AAAS
+Crypto Ai Trader
